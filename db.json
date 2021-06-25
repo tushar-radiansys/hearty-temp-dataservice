@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "CarouselData": [
+    {"image": "https://picsum.photos/600/300"},
+    {"image": "https://picsum.photos/600/300"},
+    {"image": "https://picsum.photos/600/300"},
+    {"image": "https://picsum.photos/600/300"}
+  ]
 }
