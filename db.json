@@ -1,198 +1,200 @@
 {
-  "headerData": {
-    "location": "New York",
-    "date": "Mon 06/08"
-  },
-  "carouselData": [
-    {"image": "https://picsum.photos/600/300"},
-    {"image": "https://picsum.photos/600/300"},
-    {"image": "https://picsum.photos/600/300"},
-    {"image": "https://picsum.photos/600/300"}
-  ],
-  "freeShippingPrice": "$35",
-  "signUpDiscount": "$10",
-  "filterChoices": [
-    {
-      "id": "1",
-      "image": "https://picsum.photos/48",
-      "name": "Dairy & Eggs"
+  "home": {
+    "headerData": {
+      "location": "New York",
+      "date": "Mon 06/08"
     },
-    {
-      "id": "2",
-      "image": "https://picsum.photos/48",
-      "name": "Spices"
+    "carouselData": [
+      {"image": "https://picsum.photos/600/300"},
+      {"image": "https://picsum.photos/600/300"},
+      {"image": "https://picsum.photos/600/300"},
+      {"image": "https://picsum.photos/600/300"}
+    ],
+    "freeShippingPrice": "$35",
+    "signUpDiscount": "$10",
+    "filterChoices": [
+      {
+        "id": "1",
+        "image": "https://picsum.photos/48",
+        "name": "Dairy & Eggs"
+      },
+      {
+        "id": "2",
+        "image": "https://picsum.photos/48",
+        "name": "Spices"
+      },
+      {
+        "id": "3",
+        "image": "https://picsum.photos/48",
+        "name": "Snacks & Namkeen"
+      }
+    ],
+    "recommendedItems": [
+      {
+        "id": "1",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 0,
+        "sold": "3k sold"
+      },
+      {
+        "id": "2",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 3,
+        "originalPrice": "$2.00",
+        "sold": "3k sold"
+      },
+      {
+        "id": "3",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 0,
+        "sold": "3k sold"
+      }
+    ],
+    "regionalCuisines": [
+      {
+        "id": "1",
+        "image": "https://picsum.photos/256",
+        "name": "Gujarati"
+      },
+      {
+        "id": "2",
+        "image": "https://picsum.photos/256",
+        "name": "Rajastani"
+      },
+      {
+        "id": "3",
+        "image": "https://picsum.photos/256",
+        "name": "South Indian"
+      },
+      {
+        "id": "4",
+        "image": "https://picsum.photos/256",
+        "name": "Bengali"
+      },
+      {
+        "id": "5",
+        "image": "https://picsum.photos/256",
+        "name": "Nagaland"
+      }
+    ],
+    "lightningDealTimer": "03:38:27",
+    "lightningDeals": [
+      {
+        "id": "1",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 0,
+        "sold": "3k sold"
+      },
+      {
+        "id": "2",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 3,
+        "originalPrice": "$2.00",
+        "sold": "3k sold"
+      },
+      {
+        "id": "3",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 0,
+        "sold": "3k sold"
+      }
+    ],
+    "homeBannerImage": {
+      "uri": "https://picsum.photos/900/300",
+      "aspectRatio": 2
     },
-    {
-      "id": "3",
-      "image": "https://picsum.photos/48",
-      "name": "Snacks & Namkeen"
-    }
-  ],
-  "recommendedItems": [
-    {
-      "id": "1",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 0,
-      "sold": "3k sold"
+    "topPicks": [
+      {
+        "id": "1",
+        "color": "#D9F0F8",
+        "title": "Best Seller",
+        "text": "Loreum ipsum merotium June damaka",
+        "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
+      },
+      {
+        "id": "2",
+        "color": "#FFCFCF",
+        "title": "Best Seller",
+        "text": "Loreum ipsum merotium June damaka",
+        "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
+      },
+      {
+        "id": "3",
+        "color": "#E0F8C8",
+        "title": "Best Seller",
+        "text": "Loreum ipsum merotium June damaka",
+        "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
+      }
+    ],
+    "collectionsImage": {
+      "uri": "https://picsum.photos/680/400",
+      "aspectRatio": 2
     },
-    {
-      "id": "2",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 3,
-      "originalPrice": "$2.00",
-      "sold": "3k sold"
-    },
-    {
-      "id": "3",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 0,
-      "sold": "3k sold"
-    }
-  ],
-  "regionalCuisines": [
-    {
-      "id": "1",
-      "image": "https://picsum.photos/256",
-      "name": "Gujarati"
-    },
-    {
-      "id": "2",
-      "image": "https://picsum.photos/256",
-      "name": "Rajastani"
-    },
-    {
-      "id": "3",
-      "image": "https://picsum.photos/256",
-      "name": "South Indian"
-    },
-    {
-      "id": "4",
-      "image": "https://picsum.photos/256",
-      "name": "Bengali"
-    },
-    {
-      "id": "5",
-      "image": "https://picsum.photos/256",
-      "name": "Nagaland"
-    }
-  ],
-  "lightningDealTimer": "03:38:27",
-  "lightningDeals": [
-    {
-      "id": "1",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 0,
-      "sold": "3k sold"
-    },
-    {
-      "id": "2",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 3,
-      "originalPrice": "$2.00",
-      "sold": "3k sold"
-    },
-    {
-      "id": "3",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 0,
-      "sold": "3k sold"
-    }
-  ],
-  "homeBannerImage": {
-    "uri": "https://picsum.photos/900/300",
-    "aspectRatio": 2
-  },
-  "topPicks": [
-    {
-      "id": "1",
-      "color": "#D9F0F8",
-      "title": "Best Seller",
-      "text": "Loreum ipsum merotium June damaka",
-      "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
-    },
-    {
-      "id": "2",
-      "color": "#FFCFCF",
-      "title": "Best Seller",
-      "text": "Loreum ipsum merotium June damaka",
-      "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
-    },
-    {
-      "id": "3",
-      "color": "#E0F8C8",
-      "title": "Best Seller",
-      "text": "Loreum ipsum merotium June damaka",
-      "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
-    }
-  ],
-  "collectionsImage": {
-    "uri": "https://picsum.photos/680/400",
-    "aspectRatio": 2
-  },
-  "collections": [
-    {
-      "id": "1",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 0,
-      "sold": "3k sold"
-    },
-    {
-      "id": "2",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 3,
-      "originalPrice": "$2.00",
-      "sold": "3k sold"
-    },
-    {
-      "id": "3",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 0,
-      "sold": "3k sold"
-    }
-  ],
-  "weekendSaleItems": [
-    {
-      "id": "1",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 0,
-      "sold": "3k sold"
-    },
-    {
-      "id": "2",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 3,
-      "originalPrice": "$2.00",
-      "sold": "3k sold"
-    },
-    {
-      "id": "3",
-      "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
-      "price": "$1.99",
-      "value": 0,
-      "sold": "3k sold"
-    }
-  ]
+    "collections": [
+      {
+        "id": "1",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 0,
+        "sold": "3k sold"
+      },
+      {
+        "id": "2",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 3,
+        "originalPrice": "$2.00",
+        "sold": "3k sold"
+      },
+      {
+        "id": "3",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 0,
+        "sold": "3k sold"
+      }
+    ],
+    "weekendSaleItems": [
+      {
+        "id": "1",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 0,
+        "sold": "3k sold"
+      },
+      {
+        "id": "2",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 3,
+        "originalPrice": "$2.00",
+        "sold": "3k sold"
+      },
+      {
+        "id": "3",
+        "name": "Loreum Ipsum Merisoti Kimu",
+        "image": "https://picsum.photos/256",
+        "price": "$1.99",
+        "value": 0,
+        "sold": "3k sold"
+      }
+    ]
+  }
 }
