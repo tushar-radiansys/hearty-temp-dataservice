@@ -4,27 +4,35 @@
     "date": "Mon 06/08"
   },
   "carouselData": [
-    {"image": "https://picsum.photos/600/300"},
-    {"image": "https://picsum.photos/600/300"},
-    {"image": "https://picsum.photos/600/300"},
-    {"image": "https://picsum.photos/600/300"}
+    {
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/homeCarousel1.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/homeCarousel1.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/homeCarousel1.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/homeCarousel1.png"
+    }
   ],
   "freeShippingPrice": {"price": "$35"},
   "signUpDiscount": {"discount": "$10"},
   "categories": [
     {
       "id": "1",
-      "image": "https://picsum.photos/48",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/filterChoice1.png",
       "name": "Dairy & Eggs"
     },
     {
       "id": "2",
-      "image": "https://picsum.photos/48",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/filterChoice2.png",
       "name": "Spices"
     },
     {
       "id": "3",
-      "image": "https://picsum.photos/48",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/filterChoice3.png",
       "name": "Snacks & Namkeen"
     }
   ],
@@ -32,7 +40,7 @@
     {
       "id": "1",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item1.png",
       "price": "$1.99",
       "value": 0,
       "sold": "3k sold"
@@ -40,7 +48,7 @@
     {
       "id": "2",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item2.png",
       "price": "$1.99",
       "value": 3,
       "originalPrice": "$2.00",
@@ -49,7 +57,7 @@
     {
       "id": "3",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item3.png",
       "price": "$1.99",
       "value": 0,
       "sold": "3k sold"
@@ -58,27 +66,27 @@
   "regionalCuisines": [
     {
       "id": "1",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/regionalCuisine1.png",
       "name": "Gujarati"
     },
     {
       "id": "2",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/regionalCuisine1.png",
       "name": "Rajastani"
     },
     {
       "id": "3",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/regionalCuisine1.png",
       "name": "South Indian"
     },
     {
       "id": "4",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/regionalCuisine1.png",
       "name": "Bengali"
     },
     {
       "id": "5",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/regionalCuisine1.png",
       "name": "Nagaland"
     }
   ],
@@ -87,7 +95,7 @@
     {
       "id": "1",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item1.png",
       "price": "$1.99",
       "value": 0,
       "sold": "3k sold"
@@ -95,7 +103,7 @@
     {
       "id": "2",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item2.png",
       "price": "$1.99",
       "value": 3,
       "originalPrice": "$2.00",
@@ -104,14 +112,14 @@
     {
       "id": "3",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item3.png",
       "price": "$1.99",
       "value": 0,
       "sold": "3k sold"
     }
   ],
   "homeBannerImage": {
-    "uri": "https://picsum.photos/900/300",
+    "uri": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/homeBanner.png",
     "aspectRatio": 2
   },
   "topPicks": [
@@ -120,32 +128,41 @@
       "color": "#D9F0F8",
       "title": "Best Seller",
       "text": "Loreum ipsum merotium June damaka",
-      "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
+      "images": [
+        "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/topPickItem.png",
+        "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/topPickItem.png"
+      ]
     },
     {
       "id": "2",
       "color": "#FFCFCF",
       "title": "Best Seller",
       "text": "Loreum ipsum merotium June damaka",
-      "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
+      "images": [
+        "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/topPickItem.png",
+        "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/topPickItem.png"
+      ]
     },
     {
       "id": "3",
       "color": "#E0F8C8",
       "title": "Best Seller",
       "text": "Loreum ipsum merotium June damaka",
-      "images": ["https://picsum.photos/128", "https://picsum.photos/128"]
+      "images": [
+        "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/topPickItem.png",
+        "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/topPickItem.png"
+      ]
     }
   ],
   "collectionsImage": {
-    "uri": "https://picsum.photos/680/400",
+    "uri": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/collections.png",
     "aspectRatio": 2
   },
   "collections": [
     {
       "id": "1",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item1.png",
       "price": "$1.99",
       "value": 0,
       "sold": "3k sold"
@@ -153,7 +170,7 @@
     {
       "id": "2",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item2.png",
       "price": "$1.99",
       "value": 3,
       "originalPrice": "$2.00",
@@ -162,7 +179,7 @@
     {
       "id": "3",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item3.png",
       "price": "$1.99",
       "value": 0,
       "sold": "3k sold"
@@ -172,7 +189,7 @@
     {
       "id": "1",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item1.png",
       "price": "$1.99",
       "value": 0,
       "sold": "3k sold",
@@ -181,7 +198,7 @@
     {
       "id": "2",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item2.png",
       "price": "$1.99",
       "value": 3,
       "originalPrice": "$2.00",
@@ -191,11 +208,37 @@
     {
       "id": "3",
       "name": "Loreum Ipsum Merisoti Kimu",
-      "image": "https://picsum.photos/256",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/item3.png",
       "price": "$1.99",
       "value": 0,
       "sold": "3k sold",
       "labels": [{"text": "25% off", "color": "#FBCE2F"}]
+    }
+  ],
+  "categoryFilters": [
+    {
+      "id": "1",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/categoryFilter1.png",
+      "name": "Lemon",
+      "color": "#FFEDD2"
+    },
+    {
+      "id": "2",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/categoryFilter2.png",
+      "name": "Kiwi",
+      "color": "#BBE4BF"
+    },
+    {
+      "id": "3",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/categoryFilter3.png",
+      "name": "Litchi",
+      "color": "#FFBCBC"
+    },
+    {
+      "id": "4",
+      "image": "https://raw.githubusercontent.com/tushar-radiansys/hearty-temp-dataservice/main/images/categoryFilter4.png",
+      "name": "Mango",
+      "color": "#FFD0A5"
     }
   ]
 }
