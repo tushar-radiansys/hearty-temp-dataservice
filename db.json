@@ -9,9 +9,9 @@
     {"image": "https://picsum.photos/600/300"},
     {"image": "https://picsum.photos/600/300"}
   ],
-  "freeShippingPrice": "$35",
-  "signUpDiscount": "$10",
-  "filterChoices": [
+  "freeShippingPrice": {"price": "$35"},
+  "signUpDiscount": {"discount": "$10"},
+  "categories": [
     {
       "id": "1",
       "image": "https://picsum.photos/48",
@@ -82,7 +82,7 @@
       "name": "Nagaland"
     }
   ],
-  "lightningDealTimer": "03:38:27",
+  "lightningDealTimer": {"timer": "03:38:27"},
   "lightningDeals": [
     {
       "id": "1",
@@ -175,7 +175,8 @@
       "image": "https://picsum.photos/256",
       "price": "$1.99",
       "value": 0,
-      "sold": "3k sold"
+      "sold": "3k sold",
+      "labels": [{"text": "25% off", "color": "#FBCE2F"}]
     },
     {
       "id": "2",
@@ -184,7 +185,8 @@
       "price": "$1.99",
       "value": 3,
       "originalPrice": "$2.00",
-      "sold": "3k sold"
+      "sold": "3k sold",
+      "labels": [{"text": "25% off", "color": "#FBCE2F"}]
     },
     {
       "id": "3",
@@ -192,7 +194,8 @@
       "image": "https://picsum.photos/256",
       "price": "$1.99",
       "value": 0,
-      "sold": "3k sold"
+      "sold": "3k sold",
+      "labels": [{"text": "25% off", "color": "#FBCE2F"}]
     }
   ]
 }
